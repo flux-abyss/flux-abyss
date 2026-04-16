@@ -1,5 +1,3 @@
-# Flux Abyss
-
 I build practical tools focused on performance, packaging, and real-world usability (primarily on Linux).
 
 ## Focus
