@@ -10,7 +10,7 @@ Building and refining tools that reduce friction between source code and usable 
 
 ## Presence
 - YouTube: https://www.youtube.com/@Flux-Abyss
-- Reddit: https://reddit.com/u/flux-abyss
+- Reddit:  https://reddit.com/u/flux-abyss
 
 ## Support
 - Ko-fi: https://ko-fi.com/fluxabyss
