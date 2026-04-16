@@ -1,16 +1,20 @@
-## Hi there 👋
+# Flux Abyss
 
-<!--
-**flux-abyss/flux-abyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical tools focused on performance, packaging, and real-world usability (primarily on Linux).
 
-Here are some ideas to get you started:
+## Focus
+- Linux tooling
+- Packaging automation
+- System-level development
+- Real-world usability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work
+Building and refining tools that reduce friction between source code and usable software.
+
+## Presence
+- YouTube: https://www.youtube.com/@Flux-Abyss
+- Reddit: https://reddit.com/u/flux-abyss
+
+## Support
+- GitHub Sponsors: https://github.com/sponsors/flux-abyss
+- Ko-fi: https://ko-fi.com/fluxabyss
