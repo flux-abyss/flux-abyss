@@ -16,5 +16,4 @@ Building and refining tools that reduce friction between source code and usable 
 - Reddit: https://reddit.com/u/flux-abyss
 
 ## Support
-- GitHub Sponsors: https://github.com/sponsors/flux-abyss
 - Ko-fi: https://ko-fi.com/fluxabyss
